@@ -2,10 +2,10 @@ package com.qinjiangbo;
 
 public enum Accounts {
 	
-	QQ("1105351275@qq.com", "fvcateimclnxijhj", "smtp.qq.com", "465"),
-	NetEase("13667241394@163.com", "cq08010907", "smtp.163.com", "465"),
-	Hotmail("qinjiangbo1994@outlook.com", "cq08010907", "smtp-mail.outlook.com", "587"),
-	iCloud("qinjiangbo1994@icloud.com", "Qc08010907", "smtp.mail.me.com", "587");
+	QQ("1105351275@qq.com", "****", "smtp.qq.com", "465"),
+	NetEase("13667241394@163.com", "****", "smtp.163.com", "465"),
+	Hotmail("qinjiangbo1994@outlook.com", "****", "smtp-mail.outlook.com", "587"),
+	iCloud("qinjiangbo1994@icloud.com", "****", "smtp.mail.me.com", "587");
 	
 	private String username;
 	private String password;
